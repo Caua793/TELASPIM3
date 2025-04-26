@@ -63,5 +63,15 @@ namespace Tentativa_de_telas
             frmTelaCadastro.Show();
             this.Hide();
         }
+
+        private void TxtSenha_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel3_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
